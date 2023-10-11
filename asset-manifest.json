@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/React_koreanair/static/css/main.68e58f0a.css",
+    "main.js": "/React_koreanair/static/js/main.2d62775c.js",
+    "static/js/787.cd92c89f.chunk.js": "/React_koreanair/static/js/787.cd92c89f.chunk.js",
+    "static/media/boardImg.png": "/React_koreanair/static/media/boardImg.9a78d6a47efa16f69c38.png",
+    "static/media/back1.jpeg": "/React_koreanair/static/media/back1.f974a537120a85a32d18.jpeg",
+    "static/media/notice2.jpeg": "/React_koreanair/static/media/notice2.0299094e983a12653fb9.jpeg",
+    "static/media/notice3.jpeg": "/React_koreanair/static/media/notice3.ae15913cf087d1f98b66.jpeg",
+    "static/media/notice5.jpeg": "/React_koreanair/static/media/notice5.6c0dbe9913d7bb1c7722.jpeg",
+    "static/media/notice6.jpeg": "/React_koreanair/static/media/notice6.94e4ad9a1cf7965bfbe7.jpeg",
+    "static/media/notice1.jpeg": "/React_koreanair/static/media/notice1.19e20e09f266a1f1a699.jpeg",
+    "static/media/img5.jpeg": "/React_koreanair/static/media/img5.797e8e01eae630a1b6b7.jpeg",
+    "static/media/notice4.jpeg": "/React_koreanair/static/media/notice4.58f74f678a179a99a722.jpeg",
+    "static/media/img3.jpeg": "/React_koreanair/static/media/img3.b3d399457e97dcb27d63.jpeg",
+    "static/media/banner-busan2030.svg": "/React_koreanair/static/media/banner-busan2030.f5eee1dccafe5ec5833d.svg",
+    "static/media/img4.jpeg": "/React_koreanair/static/media/img4.d1bf0596c7de86650710.jpeg",
+    "static/media/img6.jpeg": "/React_koreanair/static/media/img6.5e5a84cab1eb333ee69f.jpeg",
+    "static/media/img2.jpeg": "/React_koreanair/static/media/img2.120f749fce554d2cb539.jpeg",
+    "static/media/img1.jpeg": "/React_koreanair/static/media/img1.d695a9a831733ad20921.jpeg",
+    "static/media/sns2.svg": "/React_koreanair/static/media/sns2.ac5b343f1b91a17de747.svg",
+    "static/media/icon1.svg": "/React_koreanair/static/media/icon1.ae4feeea5b2e1ed70f6bc742aa5df09f.svg",
+    "static/media/google.svg": "/React_koreanair/static/media/google.08794f6c7c128a627e55.svg",
+    "static/media/icon3.svg": "/React_koreanair/static/media/icon3.0f7a56d8cbbdb58a6ac9.svg",
+    "static/media/sns4.svg": "/React_koreanair/static/media/sns4.09cd16aa1c8cb515a13c.svg",
+    "index.html": "/React_koreanair/index.html",
+    "static/media/sns1.svg": "/React_koreanair/static/media/sns1.2153a95e3a6cd1ca8021.svg",
+    "static/media/icon2.svg": "/React_koreanair/static/media/icon2.d758949f00b85659dec2be9839888f9a.svg",
+    "static/media/kakao.svg": "/React_koreanair/static/media/kakao.a2a069713a590395c42e.svg",
+    "static/media/sns3.svg": "/React_koreanair/static/media/sns3.e80d6d9da8b12450ec83.svg",
+    "static/media/naver.svg": "/React_koreanair/static/media/naver.ffa752ce852f515a9e65.svg",
+    "static/media/facebook.svg": "/React_koreanair/static/media/facebook.df1c0612234592da2c13.svg",
+    "static/media/icon4.svg": "/React_koreanair/static/media/icon4.ed974068c1fe9d4990722dbebccf4b60.svg",
+    "main.68e58f0a.css.map": "/React_koreanair/static/css/main.68e58f0a.css.map",
+    "main.2d62775c.js.map": "/React_koreanair/static/js/main.2d62775c.js.map",
+    "787.cd92c89f.chunk.js.map": "/React_koreanair/static/js/787.cd92c89f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e58f0a.css",
+    "static/js/main.2d62775c.js"
+  ]
+}
