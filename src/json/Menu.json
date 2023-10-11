@@ -1,0 +1,358 @@
+{
+
+    "menu1" : {
+ 
+     "list1" : [
+
+        {
+            "title" : "예약 가이드",
+            "href" : "",
+            "content" : "운임안내"
+        },
+        {
+            "href" : "",
+            "content" : "좌석승급"
+        },
+        {
+            "href" : "",
+            "content" : "변경 및 환불"
+        },
+        {
+            "href" : "",
+            "content" : "온라인 결제"
+        }
+
+    ] ,
+
+    "list2" : [
+
+
+        {
+            "title" : "부가 서비스",
+            "href" : "",
+            "content" : "대한항공 서비스"
+        },
+        {
+            "href" : "",
+            "content" : "제휴 서비스"
+        }
+
+    ],
+
+    "list3" : [
+
+        {
+            "title" : "유용한 정보",
+            "href" : "",
+            "content" : "보너스 좌석 상황보기"
+        },
+
+        {
+            "href" : "",
+            "content" : "운항 노선도"
+        },
+
+        {
+            "href" : "",
+            "content" : "공동 운항"
+        },
+
+        {
+            "href" : "",
+            "content" : "환승 전용 내항기"
+        },
+        {
+            "href" : "",
+            "content" : "지도로 찾는 항공권"
+        }
+    ],
+
+    "list4" : [
+
+        {
+            "href" : "",
+            "content" : "항공권 예매하러 가기"
+        },
+
+        {
+            "href" : "",
+            "content" : "보너스 좌석 상황 보러가기"
+        }
+
+    ]
+
+    },
+
+    "menu2" : {
+
+        "list1" : [
+
+            {
+                "title" : "체크인",
+                "href" : "",
+                "content" : "사전체크인"
+            },
+            {
+                "href" : "",
+                "content" : "공항체크인"
+            }
+    
+        ] ,
+    
+        "list2" : [
+    
+    
+            {
+                "title" : "탑승 절차",
+                "href" : "",
+                "content" : "탑승 절차 안내"
+            },
+            {
+                "href" : "",
+                "content" : "SkyPriority"
+            },
+            {
+                "href" : "",
+                "content" : "출입국 규정 정보"
+            }
+    
+        ],
+    
+        "list3" : [
+    
+            {
+                "title" : "공항 이용 가이드",
+                "href" : "",
+                "content" : "인천 국제 공항"
+            },
+    
+            {
+                "href" : "",
+                "content" : "취항지 공항 정보"
+            },
+    
+            {
+                "href" : "",
+                "content" : "KAL라운지"
+            }
+        ],
+    
+        "list4" : [
+    
+            {
+                "title" : "수하물",
+                "href" : "",
+                "content" : "수하물 안내"
+            },
+    
+            {
+                "href" : "",
+                "content" : "운송 제한 물품"
+            },
+    
+            {
+                "href" : "",
+                "content" : "휴대 수화물"
+            },
+            {
+                "href" : "",
+                "content" : "위탁 수화물"
+            },
+            {
+                "href" : "",
+                "content" : "지연, 파손 및 유실물"
+            }
+    
+        ]
+    },
+
+    "menu3" : {
+
+        "list1" : [
+
+            {
+                "title" : "클래스별 서비스",
+                "href" : "#",
+                "content" : "일등석"
+            },
+            {
+                "href" : "#",
+                "content" : "프레스티지석"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "일반석"
+            }
+    
+        ] ,
+    
+        "list2" : [
+    
+    
+            {
+                "title" : "기내 서비스",
+                "href" : "#",
+                "content" : "서비스 순서"
+            },
+            {
+                "href" : "#",
+                "content" : "기내식"
+            },
+            {
+                "href" : "#",
+                "content" : "기내 면세품"
+            },
+            {
+                "href" : "#",
+                "content" : "기내 여행가이드"
+            },
+            {
+                "href" : "#",
+                "content" : "기내 엔터테이먼트"
+            },
+            {
+                "href" : "#",
+                "content" : "기내 와이파이"
+            }
+    
+        ],
+    
+        "list3" : [
+    
+            {
+                "title" : "항공기 안내",
+                "href" : "#",
+                "content" : "보잉 787"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "보잉 777"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "보잉 747"
+            },
+            {
+                "href" : "#",
+                "content" : "보잉 737"
+            },
+            {
+                "href" : "#",
+                "content" : "에어버스 A380"
+            },
+            {
+                "href" : "#",
+                "content" : "에어버스 A330"
+            },
+            {
+                "href" : "#",
+                "content" : "에어버스 A321"
+            },
+            {
+                "href" : "#",
+                "content" : "에어버스 A220"
+            }
+        ],
+
+        "list4" : [
+
+            {
+                "href" : "",
+                "content" : "기내식 메뉴 조회"
+            },
+    
+            {
+                "href" : "",
+                "content" : "기내식 엔터테이먼트"
+            }
+    ]
+    },
+
+    "menu4" : {
+
+        "list1" : [
+
+            {
+                "title" : "스카이패스 소개",
+                "href" : "#",
+                "content" : "회원 혜택"
+            },
+            {
+                "href" : "#",
+                "content" : "가족 마일리지"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "제휴사 할인"
+            },
+            {
+                "href" : "#",
+                "content" : "스카이팀 공동 혜택"
+            }
+    
+        ] ,
+    
+        "list2" : [
+    
+    
+            {
+                "title" : "마일리지 적립",
+                "href" : "#",
+                "content" : "대한항공"
+            },
+            {
+                "href" : "#",
+                "content" : "신용카드"
+            },
+            {
+                "href" : "#",
+                "content" : "여행과 라이프"
+            },
+            {
+                "href" : "#",
+                "content" : "제휴 항공사"
+            },
+            {
+                "href" : "#",
+                "content" : "탑승 후 적립 안내"
+            }
+        ],
+    
+        "list3" : [
+    
+            {
+                "title" : "마일리지 사용",
+                "href" : "#",
+                "content" : "대한항공 서비스"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "제휴 항공사 보너스"
+            },
+    
+            {
+                "href" : "#",
+                "content" : "마일리지 몰"
+            }
+        ],
+
+            "list4" : [
+
+                {
+                    "href" : "",
+                    "content" : "마일리지 몰"
+                },
+        
+                {
+                    "href" : "",
+                    "content" : "탑승 후 적립 안내"
+                }
+        ]
+    }
+
+}

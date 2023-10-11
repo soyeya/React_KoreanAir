@@ -1,0 +1,49 @@
+{
+
+    "nav" : {
+
+        "title" : ["예약" , "공항" , "기내" , "스카이패스"]
+    
+    },
+
+    "select" : {
+
+        "option" : ["Korean - 한국어" , "English - 영어" , "Japanese - 일본어" , "Chinese - 중국어"]
+    },
+
+    "login_second1" : [
+
+        {
+
+        "href" : "#",
+        "title" : "네이버"
+
+        },
+
+        {
+
+        "href" : "#",
+        "title" : "카카오"
+
+        }
+
+    ],
+
+    "login_second2" : [
+
+        {
+
+            "href" : "#",
+            "title" : "구글"
+    
+            },
+    
+            {
+    
+            "href" : "#",
+            "title" : "페이스북"
+    
+            }
+
+    ]
+}

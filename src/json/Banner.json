@@ -1,0 +1,42 @@
+{
+
+    "bannerBox" : [
+
+        {
+            "title" : "대한항공카드",
+            "subTitle" : ["대한항공카드"],
+            "href" : ["#"]
+        },
+
+        {
+            "title" : "호텔",
+            "subTitle" : ["아고다" , "Hotels.com"],
+            "href" : ["#" , "#"]
+        },
+
+        {
+            "title" : "렌터카",
+            "subTitle" : ["Hertz" , "SK렌터카" , "롯데렌터카" , "Rentalcars.com"],
+            "href" :  ["#" , "#" , "#" , "#"]
+        },
+
+        {
+            "title" : "기내 면세점",
+            "subTitle" : ["SKYSHOP"],
+            "href" : "#"
+        },
+
+        {
+            "title" : "여행자 보험",
+            "subTitle" : ["Chubb여행보험"],
+            "href" : "#"
+        },
+
+        {
+            "title" : "여행 상품",
+            "subTitle" : [ "한진관광" , "KALPAK"],
+            "href" : ["#" , "#"]
+        }
+    
+    ]
+}
